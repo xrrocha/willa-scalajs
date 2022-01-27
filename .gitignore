@@ -1,0 +1,7 @@
+.local/
+attic/
+.bsp/
+.idea/
+target/
+project/project
+project/target
